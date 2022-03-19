@@ -1,2 +1,5 @@
 #Системные файлы
 *.sys
+.DS_Store
+Thumbs.db
+/.idea
