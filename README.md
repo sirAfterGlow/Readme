@@ -16,3 +16,5 @@
 ###Умения
 *Java
 *C#
+
+![Some pic](https://raw.githubusercontent.com/sirAfterGlow/Readme/main/img/some-pic.jpg)
